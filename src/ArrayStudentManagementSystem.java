@@ -27,6 +27,7 @@ class ArrayStudentManagementSystem {
     //main
     void main() {
         //add names to student list
+        // Add this value to its matching collection
         studentNames.add("m");
         // Add this value to its matching collection
         studentNames.add("S");
