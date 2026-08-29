@@ -32,6 +32,7 @@ public class ArrayDataAnalyzerSystem {
 
     // Store the working data used by later operations
     int num;
+    // Declare the values shared across this program
     int index;
     int repeat;
 
