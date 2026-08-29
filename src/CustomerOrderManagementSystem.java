@@ -29,6 +29,7 @@ public class CustomerOrderManagementSystem {
 
     // Declare the values shared across this program
     double totalsales;
+    // Keep these values available to the program methods
     double average;
     double highestorder, lowestOrder;
 
