@@ -14,6 +14,7 @@ public class EmployeeSalaryManagementSystem {
     double totalSalaries;
     // Store the working data used by later operations
     double highestSalary;
+    // Declare the values shared across this program
     double lowestSalary;
 
     int above1000Count;
