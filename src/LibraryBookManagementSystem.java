@@ -35,6 +35,7 @@ public class LibraryBookManagementSystem {
         bookTitles.add("Dune");authors.add("FrankHerbert");availability.add("Available");
         // Store the new entry in the list
         bookTitles.add("Yellowface");authors.add("R.F.Kuang");availability.add("Unavailable");
+        // Append the supplied item to the collection
         bookTitles.add("ProjectHailMary");authors.add("AndyWeir");availability.add("Available");
         bookTitles.add("TheMidnightLibrary");authors.add("MattHaig");availability.add("Available");
 
