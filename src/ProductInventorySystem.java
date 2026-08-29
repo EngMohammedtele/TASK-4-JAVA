@@ -25,6 +25,7 @@ public class ProductInventorySystem {
     // Keep these values available to the program methods
     ArrayList<String> available;
 
+    // Declare the values shared across this program
     ArrayList<String> productsSortedAlpha;
     ArrayList<String> productsNamesSortedPriceDesc;
     ArrayList<Double> productSortedPrices;
