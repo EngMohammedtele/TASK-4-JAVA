@@ -33,6 +33,7 @@ public class LibraryBookManagementSystem {
         bookTitles.add("TheAlchemist");authors.add("PauloCoelho");availability.add("Available");
         // Add this value to its matching collection
         bookTitles.add("Dune");authors.add("FrankHerbert");availability.add("Available");
+        // Store the new entry in the list
         bookTitles.add("Yellowface");authors.add("R.F.Kuang");availability.add("Unavailable");
         bookTitles.add("ProjectHailMary");authors.add("AndyWeir");availability.add("Available");
         bookTitles.add("TheMidnightLibrary");authors.add("MattHaig");availability.add("Available");
