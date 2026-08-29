@@ -35,6 +35,7 @@ public class EmployeeSalaryManagementSystem {
     // Store the working data used by later operations
     String name;
 
+    // Keep these values available to the program methods
     ArrayList<String> employeeNamesSorted;
     ArrayList<Double> employeeSalariesSorted;
 
