@@ -46,6 +46,7 @@ public class CustomerOrderManagementSystem {
 
     // Creating the instance of Random class
     Random r = new Random();
+    // Keep these values available to the program methods
     int index, id;
     String customer;
     double discount;
