@@ -48,6 +48,7 @@ public class CustomerOrderManagementSystem {
     Random r = new Random();
     // Keep these values available to the program methods
     int index, id;
+    // Store the working data used by later operations
     String customer;
     double discount;
     char letter1, letter2;
