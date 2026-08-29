@@ -30,6 +30,7 @@ class ArrayStudentManagementSystem {
         studentNames.add("m");
         // Add this value to its matching collection
         studentNames.add("S");
+        // Store the new entry in the list
         studentNames.add("t");
         studentNames.add("o");
         studentNames.add("p");
