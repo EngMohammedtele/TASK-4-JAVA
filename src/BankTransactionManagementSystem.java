@@ -25,6 +25,7 @@ public class BankTransactionManagementSystem {
 
     //sets
     HashSet<String> allowedTypes = new HashSet<>();
+    // Create a fresh collection for these results
     HashSet<String> allowedStatus = new HashSet<>();
 
     int number, index, senderIndex, receiverIndex;
