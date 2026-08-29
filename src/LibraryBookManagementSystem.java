@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Group the data and actions used by this console program
 public class LibraryBookManagementSystem {
     //initialize variables
     ArrayList<String> bookTitles = new ArrayList<String>();
