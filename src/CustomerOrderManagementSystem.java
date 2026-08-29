@@ -54,6 +54,7 @@ public class CustomerOrderManagementSystem {
     double discount;
     // Keep these values available to the program methods
     char letter1, letter2;
+    // Store the working data used by later operations
     double price;
 
     int quantity;
