@@ -47,6 +47,7 @@ public class EmployeeSalaryManagementSystem {
     void main() {
         //add 10 employees
         employeeNames.add("mohed");
+        // Add this value to its matching collection
         employeeIds.add(177835);
         employeeSalaries.add(1417.10);
 
