@@ -7,6 +7,7 @@ public class ArrayDataAnalyzerSystem {
     ArrayList<Integer> numbers = new ArrayList<Integer>();
     // Declare the values shared across this program
     ArrayList<Integer> numbersReversed;
+    // Keep these values available to the program methods
     ArrayList<Integer> numbersSorted;
 
     int total;
