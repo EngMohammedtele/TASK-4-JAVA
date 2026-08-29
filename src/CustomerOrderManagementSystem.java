@@ -15,6 +15,7 @@ public class CustomerOrderManagementSystem {
     ArrayList<Integer> quantities = new ArrayList<Integer>();
     // Prepare a new object to hold this data
     ArrayList<Double> prices = new ArrayList<Double>();
+    // Initialize storage for the values used below
     ArrayList<Double> totalPrices = new ArrayList<Double>();
     ArrayList<String> orderStatus = new ArrayList<String>();
 
