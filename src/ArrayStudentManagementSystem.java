@@ -18,6 +18,7 @@ class ArrayStudentManagementSystem {
     char firstLetter1;
     // Store the working data used by later operations
     char firstLetter2;
+    // Declare the values shared across this program
     int code;
 
     //initialize scanner to read input
