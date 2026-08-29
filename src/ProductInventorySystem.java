@@ -20,6 +20,7 @@ public class ProductInventorySystem {
 
     // Store the working data used by later operations
     ArrayList<String> low;
+    // Declare the values shared across this program
     ArrayList<String> outOfStock;
     ArrayList<String> available;
 
