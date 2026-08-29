@@ -3,6 +3,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Random;
 
+// Group the data and actions used by this console program
 public class CustomerOrderManagementSystem {
     //initialize variables
     ArrayList<Integer> orderIds = new ArrayList<Integer>();
