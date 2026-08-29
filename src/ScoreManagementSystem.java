@@ -25,6 +25,7 @@ public class ScoreManagementSystem {
     int passCount;
     // Keep these values available to the program methods
     int failCount;
+    // Store the working data used by later operations
     int excellentCount;
     int lowCount;
 
