@@ -11,6 +11,7 @@ public class BankTransactionManagementSystem {
     ArrayList<String> customerNames = new ArrayList<String>();
     // Prepare a new object to hold this data
     ArrayList<Double> balances = new ArrayList<Double>();
+    // Initialize storage for the values used below
     ArrayList<String> accountTypes = new ArrayList<String>();
     ArrayList<String> accountStatus = new ArrayList<String>();
 
