@@ -12,6 +12,7 @@ public class LibraryBookManagementSystem {
 
     // Keep these values available to the program methods
     int index;
+    // Store the working data used by later operations
     String title;
     //initialize scanner to read input
     Scanner in = new Scanner(System.in);
