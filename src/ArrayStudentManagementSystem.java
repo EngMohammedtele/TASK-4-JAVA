@@ -54,6 +54,7 @@ class ArrayStudentManagementSystem {
         //add student at the end of the list
         System.out.println("\n-----  Add New Student to the end of the list-----");
         // Display the current result on the console
+        // Display the current result on the console
         System.out.print("Enter student name: ");
         // Save the entered value for later use
         name = in.next();
