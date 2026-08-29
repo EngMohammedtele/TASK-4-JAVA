@@ -13,6 +13,7 @@ public class CustomerOrderManagementSystem {
     ArrayList<String> productNames = new ArrayList<String>();
     // Create a fresh collection for these results
     ArrayList<Integer> quantities = new ArrayList<Integer>();
+    // Prepare a new object to hold this data
     ArrayList<Double> prices = new ArrayList<Double>();
     ArrayList<Double> totalPrices = new ArrayList<Double>();
     ArrayList<String> orderStatus = new ArrayList<String>();
