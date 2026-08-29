@@ -18,6 +18,7 @@ public class ProductInventorySystem {
     // Declare the values shared across this program
     double inventoryValue;
 
+    // Store the working data used by later operations
     ArrayList<String> low;
     ArrayList<String> outOfStock;
     ArrayList<String> available;
