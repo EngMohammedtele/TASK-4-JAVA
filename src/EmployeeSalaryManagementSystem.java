@@ -24,6 +24,7 @@ public class EmployeeSalaryManagementSystem {
     // Store the working data used by later operations
     int below500Count;
 
+    // Keep these values available to the program methods
     int index;
     int id;
     double salary;
