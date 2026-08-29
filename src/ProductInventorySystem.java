@@ -38,6 +38,7 @@ public class ProductInventorySystem {
     char letter2;
     // Declare the values shared across this program
     String product;
+    // Keep these values available to the program methods
     double price;
 
     //initialize scanner to read input
