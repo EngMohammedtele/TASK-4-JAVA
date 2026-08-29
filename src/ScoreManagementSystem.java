@@ -32,6 +32,7 @@ public class ScoreManagementSystem {
 
     // Store the working data used by later operations
     Integer score;
+    // Declare the values shared across this program
     int index;
     int repeat;
 
