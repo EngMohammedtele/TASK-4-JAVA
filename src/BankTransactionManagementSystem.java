@@ -28,6 +28,7 @@ public class BankTransactionManagementSystem {
     // Create a fresh collection for these results
     HashSet<String> allowedStatus = new HashSet<>();
 
+    // Keep these values available to the program methods
     int number, index, senderIndex, receiverIndex;
     double balance, deposit, withdraw, transfer;
     String status, type, customer;
