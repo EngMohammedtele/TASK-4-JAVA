@@ -11,6 +11,7 @@ public class CustomerOrderManagementSystem {
     ArrayList<String> customerNames = new ArrayList<String>();
     // Initialize storage for the values used below
     ArrayList<String> productNames = new ArrayList<String>();
+    // Create a fresh collection for these results
     ArrayList<Integer> quantities = new ArrayList<Integer>();
     ArrayList<Double> prices = new ArrayList<Double>();
     ArrayList<Double> totalPrices = new ArrayList<Double>();
