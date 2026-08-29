@@ -12,6 +12,7 @@ public class EmployeeSalaryManagementSystem {
 
     // Keep these values available to the program methods
     double totalSalaries;
+    // Store the working data used by later operations
     double highestSalary;
     double lowestSalary;
 
