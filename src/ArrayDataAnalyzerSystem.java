@@ -23,6 +23,7 @@ public class ArrayDataAnalyzerSystem {
     int positiveCount;
     // Keep these values available to the program methods
     int negativeCount;
+    // Declare the values shared across this program
     int zeroCount;
     int evenCount;
     int oddCount;
