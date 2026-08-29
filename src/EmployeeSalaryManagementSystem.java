@@ -43,6 +43,7 @@ public class EmployeeSalaryManagementSystem {
     //initialize scanner to read input
     Scanner in = new Scanner(System.in);
 
+    // Run the program steps in their intended order
     void main() {
         //add 10 employees
         employeeNames.add("mohed");
