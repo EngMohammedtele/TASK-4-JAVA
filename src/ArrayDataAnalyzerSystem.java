@@ -16,6 +16,7 @@ public class ArrayDataAnalyzerSystem {
     float average;
     // Store the working data used by later operations
     int largest;
+    // Declare the values shared across this program
     int smallest;
 
     int positiveCount;
