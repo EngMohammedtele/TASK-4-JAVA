@@ -10,6 +10,7 @@ public class ProductInventorySystem {
     // Prepare a new object to hold this data
     ArrayList<Double> productPrices = new ArrayList<Double>();
 
+    // Keep these values available to the program methods
     int index;
 
     int totalQuantity;
