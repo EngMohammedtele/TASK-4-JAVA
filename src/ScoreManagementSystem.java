@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ScoreManagementSystem {
     //initialize required variables
     ArrayList<Integer> scores = new ArrayList<Integer>();
+    // Store the working data used by later operations
     ArrayList<Integer> scoresSorted;
     ArrayList<Integer> scoresSortedReversed;
 
