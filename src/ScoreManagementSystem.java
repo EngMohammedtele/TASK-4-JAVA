@@ -44,6 +44,7 @@ public class ScoreManagementSystem {
     void main() {
         //add 15 student scores
         scores.add(83);
+        // Append the supplied item to the collection
         scores.add(67);
         scores.add(100);
         scores.add(78);
