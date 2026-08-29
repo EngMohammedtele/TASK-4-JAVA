@@ -52,6 +52,7 @@ public class BankTransactionManagementSystem {
     void main() {
         //add allowed types and status to set
         allowedTypes.add("savings");
+        // Add this value to its matching collection
         allowedTypes.add("current");
 
         allowedStatus.add("active");
