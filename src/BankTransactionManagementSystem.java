@@ -65,6 +65,7 @@ public class BankTransactionManagementSystem {
 
         //add 10 customer accounts
         accountNumbers.add(10001);
+        // Add this value to its matching collection
         customerNames.add("Ali");
         balances.add(2500.0);
         accountTypes.add("Savings");
