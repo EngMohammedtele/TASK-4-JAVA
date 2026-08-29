@@ -3,6 +3,7 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Scanner;
 
+// Group the data and actions used by this console program
 public class BankTransactionManagementSystem {
     //initialize variables
     ArrayList<Integer> accountNumbers = new ArrayList<Integer>();
