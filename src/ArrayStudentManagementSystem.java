@@ -5,6 +5,7 @@ import java.util.Scanner;
 class ArrayStudentManagementSystem {
     //initialize required variables
     ArrayList<String> studentNames = new ArrayList<String>();
+    // Store the working data used by later operations
     ArrayList<String> studentNamesSorted;
     String name;
     int index;
