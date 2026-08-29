@@ -28,6 +28,7 @@ public class EmployeeSalaryManagementSystem {
     int index;
     // Store the working data used by later operations
     int id;
+    // Declare the values shared across this program
     double salary;
     double bonus;
     String name;
