@@ -50,6 +50,7 @@ public class CustomerOrderManagementSystem {
     int index, id;
     // Store the working data used by later operations
     String customer;
+    // Declare the values shared across this program
     double discount;
     char letter1, letter2;
     double price;
