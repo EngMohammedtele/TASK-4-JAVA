@@ -13,6 +13,7 @@ public class ProductInventorySystem {
     // Keep these values available to the program methods
     int index;
 
+    // Declare the values shared across this program
     int totalQuantity;
     double inventoryValue;
 
