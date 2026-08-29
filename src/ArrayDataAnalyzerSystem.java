@@ -10,6 +10,7 @@ public class ArrayDataAnalyzerSystem {
     // Keep these values available to the program methods
     ArrayList<Integer> numbersSorted;
 
+    // Declare the values shared across this program
     int total;
     float average;
     int largest;
