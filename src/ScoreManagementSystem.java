@@ -12,6 +12,7 @@ public class ScoreManagementSystem {
     // Declare the values shared across this program
     ArrayList<Integer> scoresSortedReversed;
 
+    // Store the working data used by later operations
     int total;
     float average;
     int highestScore;
