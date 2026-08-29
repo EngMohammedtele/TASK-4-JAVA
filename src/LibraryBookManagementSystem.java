@@ -48,6 +48,7 @@ public class LibraryBookManagementSystem {
         System.out.println("\n----- Add new Book -----");
         addNewBook();
 
+        // Show this message to the user
         System.out.println("\n----- Update Book Information -----");
         updateBook();
 
