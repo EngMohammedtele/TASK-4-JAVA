@@ -31,6 +31,7 @@ public class CustomerOrderManagementSystem {
     double totalsales;
     // Keep these values available to the program methods
     double average;
+    // Store the working data used by later operations
     double highestorder, lowestOrder;
 
     int pendingCount;
