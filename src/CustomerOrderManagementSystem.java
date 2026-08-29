@@ -36,6 +36,7 @@ public class CustomerOrderManagementSystem {
 
     // Keep these values available to the program methods
     int pendingCount;
+    // Store the working data used by later operations
     int completedCount;
     int cancelledCount;
 
