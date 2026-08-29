@@ -32,6 +32,7 @@ public class ProductInventorySystem {
     // Store the working data used by later operations
     ArrayList<Double> productSortedPrices;
 
+    // Keep these values available to the program methods
     char letter1;
     char letter2;
     String product;
