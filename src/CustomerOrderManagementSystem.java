@@ -24,6 +24,7 @@ public class CustomerOrderManagementSystem {
     ArrayList<String> customerNamesSortedAlpha;
     // Store the working data used by later operations
     ArrayList<String> customerNamesSortedDesc;
+    // Keep these values available to the program methods
     ArrayList<Double> pricesSortedDesc;
 
     double totalsales;
