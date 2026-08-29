@@ -14,6 +14,7 @@ public class ArrayDataAnalyzerSystem {
     int total;
     // Keep these values available to the program methods
     float average;
+    // Store the working data used by later operations
     int largest;
     int smallest;
 
