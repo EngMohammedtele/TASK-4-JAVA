@@ -10,6 +10,7 @@ public class LibraryBookManagementSystem {
     // Prepare a new object to hold this data
     ArrayList<String> availability = new ArrayList<String>();
 
+    // Keep these values available to the program methods
     int index;
     String title;
     //initialize scanner to read input
