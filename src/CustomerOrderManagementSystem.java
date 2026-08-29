@@ -17,6 +17,7 @@ public class CustomerOrderManagementSystem {
     ArrayList<Double> prices = new ArrayList<Double>();
     // Initialize storage for the values used below
     ArrayList<Double> totalPrices = new ArrayList<Double>();
+    // Create a fresh collection for these results
     ArrayList<String> orderStatus = new ArrayList<String>();
 
     //sorted lists
