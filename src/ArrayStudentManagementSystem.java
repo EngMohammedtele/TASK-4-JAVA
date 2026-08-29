@@ -7,6 +7,7 @@ class ArrayStudentManagementSystem {
     ArrayList<String> studentNames = new ArrayList<String>();
     // Store the working data used by later operations
     ArrayList<String> studentNamesSorted;
+    // Declare the values shared across this program
     String name;
     int index;
     int total;
