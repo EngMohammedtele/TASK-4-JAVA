@@ -44,6 +44,7 @@ class ArrayStudentManagementSystem {
         studentNames.add("m");
         // Store the new entry in the list
         studentNames.add("w");
+        // Append the supplied item to the collection
         studentNames.add("x");
 
         //call functions
