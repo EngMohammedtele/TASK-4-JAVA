@@ -21,6 +21,7 @@ public class ArrayDataAnalyzerSystem {
 
     // Store the working data used by later operations
     int positiveCount;
+    // Keep these values available to the program methods
     int negativeCount;
     int zeroCount;
     int evenCount;
