@@ -12,6 +12,7 @@ public class ArrayDataAnalyzerSystem {
 
     // Declare the values shared across this program
     int total;
+    // Keep these values available to the program methods
     float average;
     int largest;
     int smallest;
