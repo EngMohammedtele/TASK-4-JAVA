@@ -27,6 +27,7 @@ public class ScoreManagementSystem {
     int failCount;
     // Store the working data used by later operations
     int excellentCount;
+    // Declare the values shared across this program
     int lowCount;
 
     Integer score;
