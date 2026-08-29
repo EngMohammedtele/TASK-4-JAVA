@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class EmployeeSalaryManagementSystem {
     //initialize variables
     ArrayList<String> employeeNames = new ArrayList<String>();
+    // Create a fresh collection for these results
     ArrayList<Integer> employeeIds = new ArrayList<Integer>();
     ArrayList<Double> employeeSalaries = new ArrayList<Double>();
 
