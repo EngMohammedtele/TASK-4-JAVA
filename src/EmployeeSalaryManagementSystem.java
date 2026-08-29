@@ -10,6 +10,7 @@ public class EmployeeSalaryManagementSystem {
     // Prepare a new object to hold this data
     ArrayList<Double> employeeSalaries = new ArrayList<Double>();
 
+    // Keep these values available to the program methods
     double totalSalaries;
     double highestSalary;
     double lowestSalary;
