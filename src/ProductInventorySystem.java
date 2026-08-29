@@ -29,6 +29,7 @@ public class ProductInventorySystem {
     ArrayList<String> productsSortedAlpha;
     // Keep these values available to the program methods
     ArrayList<String> productsNamesSortedPriceDesc;
+    // Store the working data used by later operations
     ArrayList<Double> productSortedPrices;
 
     char letter1;
