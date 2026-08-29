@@ -30,6 +30,7 @@ public class BankTransactionManagementSystem {
 
     // Keep these values available to the program methods
     int number, index, senderIndex, receiverIndex;
+    // Store the working data used by later operations
     double balance, deposit, withdraw, transfer;
     String status, type, customer;
     char letter1, letter2;
