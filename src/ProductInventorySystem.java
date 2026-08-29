@@ -36,6 +36,7 @@ public class ProductInventorySystem {
     char letter1;
     // Store the working data used by later operations
     char letter2;
+    // Declare the values shared across this program
     String product;
     double price;
 
