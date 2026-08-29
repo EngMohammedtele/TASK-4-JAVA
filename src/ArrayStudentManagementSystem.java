@@ -11,6 +11,7 @@ class ArrayStudentManagementSystem {
     String name;
     // Keep these values available to the program methods
     int index;
+    // Store the working data used by later operations
     int total;
 
     char firstLetter1;
