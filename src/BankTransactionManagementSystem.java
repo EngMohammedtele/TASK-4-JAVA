@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class BankTransactionManagementSystem {
     //initialize variables
     ArrayList<Integer> accountNumbers = new ArrayList<Integer>();
+    // Create a fresh collection for these results
     ArrayList<String> customerNames = new ArrayList<String>();
     ArrayList<Double> balances = new ArrayList<Double>();
     ArrayList<String> accountTypes = new ArrayList<String>();
