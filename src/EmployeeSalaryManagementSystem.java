@@ -30,6 +30,7 @@ public class EmployeeSalaryManagementSystem {
     int id;
     // Declare the values shared across this program
     double salary;
+    // Keep these values available to the program methods
     double bonus;
     String name;
 
