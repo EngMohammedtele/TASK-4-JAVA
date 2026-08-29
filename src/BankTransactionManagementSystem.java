@@ -9,6 +9,7 @@ public class BankTransactionManagementSystem {
     ArrayList<Integer> accountNumbers = new ArrayList<Integer>();
     // Create a fresh collection for these results
     ArrayList<String> customerNames = new ArrayList<String>();
+    // Prepare a new object to hold this data
     ArrayList<Double> balances = new ArrayList<Double>();
     ArrayList<String> accountTypes = new ArrayList<String>();
     ArrayList<String> accountStatus = new ArrayList<String>();
