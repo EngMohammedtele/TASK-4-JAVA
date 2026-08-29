@@ -18,6 +18,7 @@ public class BankTransactionManagementSystem {
 
     //sorted lists
     ArrayList<String> customerNamesSortedAlpha;
+    // Store the working data used by later operations
     ArrayList<String> customerNamesSortedDesc;
     ArrayList<Double> balancesSortedDesc;
 
