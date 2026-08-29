@@ -18,6 +18,7 @@ public class ScoreManagementSystem {
     float average;
     // Declare the values shared across this program
     int highestScore;
+    // Keep these values available to the program methods
     int lowestScore;
 
     int passCount;
