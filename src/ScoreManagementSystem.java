@@ -40,6 +40,7 @@ public class ScoreManagementSystem {
     //initialize scanner to read input
     Scanner in = new Scanner(System.in);
 
+    // Start the console workflow for this example
     void main() {
         //add 15 student scores
         scores.add(83);
