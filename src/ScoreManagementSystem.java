@@ -16,6 +16,7 @@ public class ScoreManagementSystem {
     int total;
     // Declare the values shared across this program
     float average;
+    // Declare the values shared across this program
     int highestScore;
     int lowestScore;
 
