@@ -21,6 +21,7 @@ public class ScoreManagementSystem {
     // Keep these values available to the program methods
     int lowestScore;
 
+    // Declare the values shared across this program
     int passCount;
     int failCount;
     int excellentCount;
