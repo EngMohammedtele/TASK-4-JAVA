@@ -7,6 +7,7 @@ import java.util.Random;
 public class CustomerOrderManagementSystem {
     //initialize variables
     ArrayList<Integer> orderIds = new ArrayList<Integer>();
+    // Prepare a new object to hold this data
     ArrayList<String> customerNames = new ArrayList<String>();
     ArrayList<String> productNames = new ArrayList<String>();
     ArrayList<Integer> quantities = new ArrayList<Integer>();
