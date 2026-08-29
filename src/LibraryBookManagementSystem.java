@@ -7,6 +7,7 @@ public class LibraryBookManagementSystem {
     ArrayList<String> bookTitles = new ArrayList<String>();
     // Create a fresh collection for these results
     ArrayList<String> authors = new ArrayList<String>();
+    // Prepare a new object to hold this data
     ArrayList<String> availability = new ArrayList<String>();
 
     int index;
