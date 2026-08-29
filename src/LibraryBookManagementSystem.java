@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class LibraryBookManagementSystem {
     //initialize variables
     ArrayList<String> bookTitles = new ArrayList<String>();
+    // Create a fresh collection for these results
     ArrayList<String> authors = new ArrayList<String>();
     ArrayList<String> availability = new ArrayList<String>();
 
