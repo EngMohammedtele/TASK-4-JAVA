@@ -38,6 +38,7 @@ public class CustomerOrderManagementSystem {
     int pendingCount;
     // Store the working data used by later operations
     int completedCount;
+    // Declare the values shared across this program
     int cancelledCount;
 
     //initialize scanner to read input
