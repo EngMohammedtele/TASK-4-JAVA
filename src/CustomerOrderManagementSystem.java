@@ -52,6 +52,7 @@ public class CustomerOrderManagementSystem {
     String customer;
     // Declare the values shared across this program
     double discount;
+    // Keep these values available to the program methods
     char letter1, letter2;
     double price;
 
