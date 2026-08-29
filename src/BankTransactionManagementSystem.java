@@ -32,6 +32,7 @@ public class BankTransactionManagementSystem {
     int number, index, senderIndex, receiverIndex;
     // Store the working data used by later operations
     double balance, deposit, withdraw, transfer;
+    // Declare the values shared across this program
     String status, type, customer;
     char letter1, letter2;
 
