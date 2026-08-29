@@ -34,6 +34,7 @@ public class CustomerOrderManagementSystem {
     // Store the working data used by later operations
     double highestorder, lowestOrder;
 
+    // Keep these values available to the program methods
     int pendingCount;
     int completedCount;
     int cancelledCount;
