@@ -19,6 +19,7 @@ public class EmployeeSalaryManagementSystem {
 
     // Store the working data used by later operations
     int above1000Count;
+    // Declare the values shared across this program
     int between500and1000Count;
     int below500Count;
 
