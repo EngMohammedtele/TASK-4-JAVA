@@ -9,6 +9,7 @@ public class CustomerOrderManagementSystem {
     ArrayList<Integer> orderIds = new ArrayList<Integer>();
     // Prepare a new object to hold this data
     ArrayList<String> customerNames = new ArrayList<String>();
+    // Initialize storage for the values used below
     ArrayList<String> productNames = new ArrayList<String>();
     ArrayList<Integer> quantities = new ArrayList<Integer>();
     ArrayList<Double> prices = new ArrayList<Double>();
