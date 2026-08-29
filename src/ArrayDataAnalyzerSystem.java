@@ -54,6 +54,7 @@ public class ArrayDataAnalyzerSystem {
         // Append the supplied item to the collection
         numbers.add(33);
         numbers.add(12);
+        // Store the new entry in the list
         numbers.add(0);
         numbers.add(67);
         numbers.add(-20);
