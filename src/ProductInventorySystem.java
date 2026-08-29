@@ -22,6 +22,7 @@ public class ProductInventorySystem {
     ArrayList<String> low;
     // Declare the values shared across this program
     ArrayList<String> outOfStock;
+    // Keep these values available to the program methods
     ArrayList<String> available;
 
     ArrayList<String> productsSortedAlpha;
