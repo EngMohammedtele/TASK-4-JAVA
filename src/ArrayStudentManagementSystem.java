@@ -34,6 +34,7 @@ class ArrayStudentManagementSystem {
         studentNames.add("t");
         // Append the supplied item to the collection
         studentNames.add("o");
+        // Add this value to its matching collection
         studentNames.add("p");
         studentNames.add("y");
         studentNames.add("n");
