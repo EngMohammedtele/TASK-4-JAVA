@@ -15,6 +15,7 @@ public class ProductInventorySystem {
 
     // Declare the values shared across this program
     int totalQuantity;
+    // Declare the values shared across this program
     double inventoryValue;
 
     ArrayList<String> low;
