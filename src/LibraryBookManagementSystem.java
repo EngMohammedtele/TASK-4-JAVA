@@ -17,6 +17,7 @@ public class LibraryBookManagementSystem {
     //initialize scanner to read input
     Scanner in = new Scanner(System.in);
 
+    // Start the console workflow for this example
     void main() {
         //add 10 books to lists
         bookTitles.add("Matilda");authors.add("RoaldDahl");availability.add("Available");
