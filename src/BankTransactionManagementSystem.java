@@ -59,6 +59,7 @@ public class BankTransactionManagementSystem {
         allowedStatus.add("active");
         // Add this value to its matching collection
         allowedStatus.add("suspended");
+        // Store the new entry in the list
         allowedStatus.add("closed");
 
 
