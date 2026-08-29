@@ -48,6 +48,7 @@ public class ArrayDataAnalyzerSystem {
         numbers.add(12);
         // Add this value to its matching collection
         numbers.add(-5);
+        // Store the new entry in the list
         numbers.add(90);
         numbers.add(33);
         numbers.add(12);
