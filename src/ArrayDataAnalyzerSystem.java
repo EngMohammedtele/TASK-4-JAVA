@@ -34,6 +34,7 @@ public class ArrayDataAnalyzerSystem {
     int num;
     // Declare the values shared across this program
     int index;
+    // Keep these values available to the program methods
     int repeat;
 
     //initialize scanner to read input
