@@ -13,6 +13,7 @@ public class BankTransactionManagementSystem {
     ArrayList<Double> balances = new ArrayList<Double>();
     // Initialize storage for the values used below
     ArrayList<String> accountTypes = new ArrayList<String>();
+    // Create a fresh collection for these results
     ArrayList<String> accountStatus = new ArrayList<String>();
 
     //sorted lists
