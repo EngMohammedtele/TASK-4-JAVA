@@ -16,6 +16,7 @@ class ArrayStudentManagementSystem {
 
     // Keep these values available to the program methods
     char firstLetter1;
+    // Store the working data used by later operations
     char firstLetter2;
     int code;
 
