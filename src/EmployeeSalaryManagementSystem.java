@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Provide the operations for this small management program
 public class EmployeeSalaryManagementSystem {
     //initialize variables
     ArrayList<String> employeeNames = new ArrayList<String>();
