@@ -21,6 +21,7 @@ public class LibraryBookManagementSystem {
     void main() {
         //add 10 books to lists
         bookTitles.add("Matilda");authors.add("RoaldDahl");availability.add("Available");
+        // Store the new entry in the list
         bookTitles.add("AtomicHabits");authors.add("JamesClear");availability.add("Unavailable");
         bookTitles.add("TheSilentPatient");authors.add("AlexMichaelides");availability.add("Available");
         bookTitles.add("Sapiens");authors.add("YuvalNoahHarari");availability.add("Unavailable");
