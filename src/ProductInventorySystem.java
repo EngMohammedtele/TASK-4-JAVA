@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Provide the operations for this small management program
 public class ProductInventorySystem {
     //initialize variables
     ArrayList<String> productNames = new ArrayList<String>();
