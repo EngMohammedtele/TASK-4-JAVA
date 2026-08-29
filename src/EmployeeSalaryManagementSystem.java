@@ -32,6 +32,7 @@ public class EmployeeSalaryManagementSystem {
     double salary;
     // Keep these values available to the program methods
     double bonus;
+    // Store the working data used by later operations
     String name;
 
     ArrayList<String> employeeNamesSorted;
