@@ -44,6 +44,7 @@ public class ArrayDataAnalyzerSystem {
     void main() {
         //add numbers to arraylist
         numbers.add(45);
+        // Append the supplied item to the collection
         numbers.add(12);
         numbers.add(-5);
         numbers.add(90);
