@@ -7,6 +7,7 @@ public class ProductInventorySystem {
     ArrayList<String> productNames = new ArrayList<String>();
     // Create a fresh collection for these results
     ArrayList<Integer> productQuantities = new ArrayList<Integer>();
+    // Prepare a new object to hold this data
     ArrayList<Double> productPrices = new ArrayList<Double>();
 
     int index;
