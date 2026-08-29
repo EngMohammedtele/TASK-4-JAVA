@@ -34,6 +34,7 @@ public class BankTransactionManagementSystem {
     double balance, deposit, withdraw, transfer;
     // Declare the values shared across this program
     String status, type, customer;
+    // Keep these values available to the program methods
     char letter1, letter2;
 
     double totalMoney, average, highestBalance, lowestBalance;
