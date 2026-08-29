@@ -20,6 +20,7 @@ public class BankTransactionManagementSystem {
     ArrayList<String> customerNamesSortedAlpha;
     // Store the working data used by later operations
     ArrayList<String> customerNamesSortedDesc;
+    // Declare the values shared across this program
     ArrayList<Double> balancesSortedDesc;
 
     //sets
