@@ -9,6 +9,7 @@ class ArrayStudentManagementSystem {
     ArrayList<String> studentNamesSorted;
     // Declare the values shared across this program
     String name;
+    // Keep these values available to the program methods
     int index;
     int total;
 
