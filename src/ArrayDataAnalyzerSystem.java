@@ -30,6 +30,7 @@ public class ArrayDataAnalyzerSystem {
     // Declare the values shared across this program
     int oddCount;
 
+    // Store the working data used by later operations
     int num;
     int index;
     int repeat;
