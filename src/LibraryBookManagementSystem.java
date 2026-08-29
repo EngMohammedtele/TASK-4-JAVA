@@ -44,6 +44,7 @@ public class LibraryBookManagementSystem {
         System.out.println("\n----- Display Book list -----");
         displayBooks();
 
+        // Show this message to the user
         System.out.println("\n----- Add new Book -----");
         addNewBook();
 
