@@ -50,6 +50,7 @@ public class ArrayDataAnalyzerSystem {
         numbers.add(-5);
         // Store the new entry in the list
         numbers.add(90);
+        // Append the supplied item to the collection
         numbers.add(33);
         numbers.add(12);
         numbers.add(0);
