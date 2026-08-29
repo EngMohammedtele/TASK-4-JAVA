@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ProductInventorySystem {
     //initialize variables
     ArrayList<String> productNames = new ArrayList<String>();
+    // Create a fresh collection for these results
     ArrayList<Integer> productQuantities = new ArrayList<Integer>();
     ArrayList<Double> productPrices = new ArrayList<Double>();
 
