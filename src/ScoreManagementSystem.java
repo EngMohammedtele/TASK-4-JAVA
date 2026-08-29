@@ -9,6 +9,7 @@ public class ScoreManagementSystem {
     ArrayList<Integer> scores = new ArrayList<Integer>();
     // Store the working data used by later operations
     ArrayList<Integer> scoresSorted;
+    // Declare the values shared across this program
     ArrayList<Integer> scoresSortedReversed;
 
     int total;
