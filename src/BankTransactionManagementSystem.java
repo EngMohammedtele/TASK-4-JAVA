@@ -37,6 +37,7 @@ public class BankTransactionManagementSystem {
     // Keep these values available to the program methods
     char letter1, letter2;
 
+    // Declare the values shared across this program
     double totalMoney, average, highestBalance, lowestBalance;
     int activeCount, suspendedCount, closedCount;
 
