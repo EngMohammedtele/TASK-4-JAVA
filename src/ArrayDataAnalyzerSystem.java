@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ArrayDataAnalyzerSystem {
     //initialize required variables
     ArrayList<Integer> numbers = new ArrayList<Integer>();
+    // Declare the values shared across this program
     ArrayList<Integer> numbersReversed;
     ArrayList<Integer> numbersSorted;
 
