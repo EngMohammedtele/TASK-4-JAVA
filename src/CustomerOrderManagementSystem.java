@@ -27,6 +27,7 @@ public class CustomerOrderManagementSystem {
     // Keep these values available to the program methods
     ArrayList<Double> pricesSortedDesc;
 
+    // Declare the values shared across this program
     double totalsales;
     double average;
     double highestorder, lowestOrder;
