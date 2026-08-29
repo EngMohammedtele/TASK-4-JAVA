@@ -19,6 +19,7 @@ public class ArrayDataAnalyzerSystem {
     // Declare the values shared across this program
     int smallest;
 
+    // Store the working data used by later operations
     int positiveCount;
     int negativeCount;
     int zeroCount;
