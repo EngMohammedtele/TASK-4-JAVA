@@ -31,6 +31,7 @@ public class LibraryBookManagementSystem {
         bookTitles.add("KlaraAndTheSun");authors.add("KazuoIshiguro");availability.add("Available");
         // Append the supplied item to the collection
         bookTitles.add("TheAlchemist");authors.add("PauloCoelho");availability.add("Available");
+        // Add this value to its matching collection
         bookTitles.add("Dune");authors.add("FrankHerbert");availability.add("Available");
         bookTitles.add("Yellowface");authors.add("R.F.Kuang");availability.add("Unavailable");
         bookTitles.add("ProjectHailMary");authors.add("AndyWeir");availability.add("Available");
