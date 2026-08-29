@@ -7,6 +7,7 @@ public class EmployeeSalaryManagementSystem {
     ArrayList<String> employeeNames = new ArrayList<String>();
     // Create a fresh collection for these results
     ArrayList<Integer> employeeIds = new ArrayList<Integer>();
+    // Prepare a new object to hold this data
     ArrayList<Double> employeeSalaries = new ArrayList<Double>();
 
     double totalSalaries;
