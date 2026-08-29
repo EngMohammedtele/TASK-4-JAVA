@@ -39,6 +39,7 @@ public class BankTransactionManagementSystem {
 
     // Declare the values shared across this program
     double totalMoney, average, highestBalance, lowestBalance;
+    // Keep these values available to the program methods
     int activeCount, suspendedCount, closedCount;
 
     //initialize scanner to read input
