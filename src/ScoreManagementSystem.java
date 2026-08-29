@@ -3,6 +3,7 @@ import org.w3c.dom.ls.LSOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// Group the data and actions used by this console program
 public class ScoreManagementSystem {
     //initialize required variables
     ArrayList<Integer> scores = new ArrayList<Integer>();
